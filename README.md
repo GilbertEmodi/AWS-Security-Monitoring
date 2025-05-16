@@ -2,7 +2,7 @@
 
 ---
 
-![Image](http://learn.nextwork.org/ecstatic_beige_calm_tarapirohe/uploads/aws-security-monitoring_reghtjy)
+![Image](https://github.com/GilbertEmodi/AWS-Security-Monitoring/blob/main/architecture-annotated.png)
 
 ---
 
@@ -90,6 +90,7 @@ I initially didn't receive an email before because CloudWatch was configured to 
 
 To validate that my monitoring system can successfully detect and alert when my secret is accessed, I checked my secret's value one more time. I recieved an email within 1 to 2 minutes of the event. My alarm in CloudWatch is also in "Alarm State" as it should be, because the secret has been accessed.
 
+![Image](http://learn.nextwork.org/ecstatic_beige_calm_tarapirohe/uploads/aws-security-monitoring_reghtjy) 
 ![Image](http://learn.nextwork.org/ecstatic_beige_calm_tarapirohe/uploads/aws-security-monitoring_ageraergearge)
 
 ---
